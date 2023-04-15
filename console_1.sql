@@ -1,3 +1,5 @@
+create schema netology;
+
 CREATE table netology.customers
 (
     id           int primary key AUTO_INCREMENT,
